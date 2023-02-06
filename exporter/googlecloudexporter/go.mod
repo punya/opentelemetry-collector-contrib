@@ -14,16 +14,16 @@ require (
 	github.com/onsi/ginkgo v1.14.1 // indirect
 	github.com/onsi/gomega v1.10.2 // indirect
 	github.com/pelletier/go-toml v1.8.0 // indirect
-	github.com/stretchr/testify v1.7.0
-	go.opencensus.io v0.23.0
+	github.com/stretchr/testify v1.8.1
+	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.23.1-0.20210325231135-d8e9970acd95
 	go.opentelemetry.io/otel v0.19.0
 	go.opentelemetry.io/otel/sdk v0.19.0
 	go.opentelemetry.io/otel/trace v0.19.0
 	go.uber.org/zap v1.16.0
-	google.golang.org/api v0.43.0
-	google.golang.org/genproto v0.0.0-20210319143718-93e7006c17a6
-	google.golang.org/grpc v1.36.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/api v0.109.0
+	google.golang.org/genproto v0.0.0-20221227171554-f9683d7f8bef
+	google.golang.org/grpc v1.51.0
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/ini.v1 v1.57.0 // indirect
 )
